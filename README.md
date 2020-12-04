@@ -15,6 +15,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
+<img align="left" alt="Docker" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToU5-SuXHCrknMqk5dFUYWmXT3Xm-tEjzYqw&usqp=CAU" />
 
 <br />
 <br />
