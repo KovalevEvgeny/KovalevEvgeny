@@ -14,8 +14,6 @@
   - [DeepFake Detection Challenge, 72 of 2265, top-4%](https://github.com/artkulak/deepfake-kaggle)
   - [Jigsaw Unintended Bias in Toxicity Classification, 106 of 3165, top-4%](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/discussion/100808)
 
-<br />
-
 ### Connect with me
 
 [<img align="left" alt="kovalev-e | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" />][linkedin]
