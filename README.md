@@ -27,7 +27,7 @@
 
 <br />
 
-[<img align="left" alt="KovalevEvgeny | Codewars" width="22px" src="https://www.codewars.com/users/KovalevEvgeny/badges/micro" />[codewars]
+[<img align="left" alt="KovalevEvgeny | Codewars" width="22px" src="https://www.codewars.com/users/KovalevEvgeny/badges/micro" />][codewars]
 
 <br />
 
