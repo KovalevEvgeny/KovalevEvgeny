@@ -1,9 +1,9 @@
 ## Kovalev Evgeny - Data Scientist
 
-- Work experience in DS: 2 years
-- [Kaggle Competitions Expert](https://www.kaggle.com/blackitten13)
-- MSc in Data Science at Skoltech
-- DS teacher
+- :computer: Work experience in DS: 2 years
+- :crown: [Kaggle Competitions Expert](https://www.kaggle.com/blackitten13)
+- :mortar_board: MSc in Data Science at Skoltech
+- :notebook: DS teacher
 
 ### Connect with me
 
