@@ -30,7 +30,6 @@
 <img align="left" alt="Pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/800px-Pandas_mark.svg.png" />
 
 <br />
-<br />
 
 ### Badges
 
