@@ -5,7 +5,7 @@
 - MSc in Data Science at Skoltech
 - DS teacher
 
-### Connect with me:
+### Connect with me
 
 [<img align="left" alt="kovalev-e | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" />][linkedin]
 [<img align="left" alt="blackitten13 | Kaggle" width="22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" />][kaggle]
@@ -13,7 +13,7 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools
 
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
 <img align="left" alt="Docker" width="26px" src="https://cdn.worldvectorlogo.com/logos/docker.svg" />
@@ -41,19 +41,13 @@
 
 </details>
 
-<details>
-  <summary> GitHub Stats</summary>
+### GitHub Stats
 
-  ![Kovalev Evgeny's github stats](https://github-readme-stats.vercel.app/api?username=KovalevEvgeny&count_private=true&show_icons=true&theme=dark)
+![Kovalev Evgeny's github stats](https://github-readme-stats.vercel.app/api?username=KovalevEvgeny&count_private=true&show_icons=true&theme=dark)
 
-</details>
+### Top languages
 
-<details>
-  <summary> Most Used Languages</summary>
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KovalevEvgeny&layout=compact)
-
-</details>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KovalevEvgeny&layout=compact)
 
 [linkedin]: https://linkedin.com/in/kovalev-e
 [kaggle]: https://www.kaggle.com/blackitten13
