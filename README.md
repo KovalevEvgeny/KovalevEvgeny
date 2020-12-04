@@ -30,22 +30,10 @@
 <img align="left" alt="Pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/800px-Pandas_mark.svg.png" />
 
 <br />
-<br />
 
-<details>
-  <summary> Badges</summary>
-
-  [<img align="left" alt="KovalevEvgeny | Codewars" src="https://www.codewars.com/users/KovalevEvgeny/badges/micro" />][codewars]
-  
-  <br />
-
-</details>
-
-### GitHub Stats
+[<img align="left" alt="KovalevEvgeny | Codewars" src="https://www.codewars.com/users/KovalevEvgeny/badges/large" />][codewars]
 
 ![Kovalev Evgeny's github stats](https://github-readme-stats.vercel.app/api?username=KovalevEvgeny&count_private=true&show_icons=true&theme=dark)
-
-### Top languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KovalevEvgeny&layout=compact)
 
