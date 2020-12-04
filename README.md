@@ -32,6 +32,8 @@
 <br />
 <br />
 
+### Badges
+
 [<img align="left" alt="KovalevEvgeny | Codewars" src="https://www.codewars.com/users/KovalevEvgeny/badges/large" />][codewars]
 
 <br />
