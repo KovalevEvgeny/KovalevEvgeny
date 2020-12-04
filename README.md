@@ -5,6 +5,18 @@
 - :mortar_board: MSc in Data Science at Skoltech
 - :notebook: DS teacher
 
+### Kaggle
+
+- current rank: 773 of 151,778
+- :2nd_place_medal::2nd_place_medal::2nd_place_medal::3rd_place_medal:
+- solutions:
+  - [IEEE-CIS Fraud Detection, 76 of 6381, top-2%](https://github.com/KovalevEvgeny/kaggle-fraud-detection)
+  - [DeepFake Detection Challenge, 72 of 2265, top-4%](https://github.com/artkulak/deepfake-kaggle)
+  - [Jigsaw Unintended Bias in Toxicity Classification, 106 of 3165, top-4%](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/discussion/100808)
+  
+
+<br />
+
 ### Connect with me
 
 [<img align="left" alt="kovalev-e | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" />][linkedin]
