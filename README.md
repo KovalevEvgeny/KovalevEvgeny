@@ -26,10 +26,14 @@
 <img align="left" alt="Sklearn" width="26px" src="https://neurohive.io/wp-content/uploads/2019/06/1200px-Scikit_learn_logo_small.svg.png" />
 
 <br />
-
-[<img align="left" alt="KovalevEvgeny | Codewars" width="22px" src="https://www.codewars.com/users/KovalevEvgeny/badges/micro" />][codewars]
-
 <br />
+
+<details>
+  <summary>:zap: Badges</summary>
+
+  [<img align="left" alt="KovalevEvgeny | Codewars" src="https://www.codewars.com/users/KovalevEvgeny/badges/micro" />][codewars]
+
+</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
