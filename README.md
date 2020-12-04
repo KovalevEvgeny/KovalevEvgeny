@@ -7,7 +7,7 @@
 
 ### Kaggle
 
-- current rank: 773 of 151,778
+- current rank: 802 of 151,778
 - :2nd_place_medal::2nd_place_medal::2nd_place_medal::3rd_place_medal:
 - solutions:
   - [IEEE-CIS Fraud Detection, 76 of 6381, top-2%](https://github.com/KovalevEvgeny/kaggle-fraud-detection)
