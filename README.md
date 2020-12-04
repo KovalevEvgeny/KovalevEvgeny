@@ -26,6 +26,9 @@
 <img align="left" alt="Sklearn" width="26px" src="https://neurohive.io/wp-content/uploads/2019/06/1200px-Scikit_learn_logo_small.svg.png" />
 
 <br />
+
+https://www.codewars.com/users/KovalevEvgeny/badges/micro
+
 <br />
 
 <details>
