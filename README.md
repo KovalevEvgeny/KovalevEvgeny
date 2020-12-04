@@ -1,13 +1,14 @@
-## Kovalev Evgeny - Data Scientist page
+## Kovalev Evgeny - Data Scientist
 
-- Work experience in DS: 2 years
-- Kaggle Competitions Expert
+- Work experience in DS: 2 years (companies: )
+- Kaggle Competitions Expert (1 x <img width="22px" src="https://www.kaggle.com/static/images/medals/datasets/bronzel@2x.png" />)
 - MSc in Data Science at Skoltech
 - DS teacher
 
 ### Connect with me:
 
 [<img align="left" alt="kovalev-e | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="kovalev-e | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
 
 <br />
 
@@ -84,3 +85,4 @@
 </details>
 
 [linkedin]: https://linkedin.com/in/kovalev-e
+[kaggle]: https://www.kaggle.com/blackitten13
