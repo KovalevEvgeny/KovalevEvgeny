@@ -24,8 +24,8 @@
 
 ### Languages and Tools
 
-<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
-<img align="left" alt="Docker" width="26px" src="https://cdn.worldvectorlogo.com/logos/docker.svg" />
+<img align="left" alt="Python" title="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
+<img align="left" alt="Docker" title="Docker" width="26px" src="https://cdn.worldvectorlogo.com/logos/docker.svg" />
 <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 <img align="left" alt="BitBucket" width="26px" src="https://cdn.worldvectorlogo.com/logos/bitbucket-icon.svg" />
 <img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />
