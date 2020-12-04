@@ -8,7 +8,7 @@
 ### Connect with me:
 
 [<img align="left" alt="kovalev-e | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" />][linkedin]
-[<img align="left" alt="kovalev-e | Kaggle" width="22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" />][kaggle]
+[<img align="left" alt="blackitten13 | Kaggle" width="22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" />][kaggle]
 
 <br />
 
@@ -27,7 +27,7 @@
 
 <br />
 
-https://www.codewars.com/users/KovalevEvgeny/badges/micro
+[<img align="left" alt="KovalevEvgeny | Codewars" width="22px" src="https://www.codewars.com/users/KovalevEvgeny/badges/micro" />[codewars]
 
 <br />
 
@@ -47,3 +47,4 @@ https://www.codewars.com/users/KovalevEvgeny/badges/micro
 
 [linkedin]: https://linkedin.com/in/kovalev-e
 [kaggle]: https://www.kaggle.com/blackitten13
+[codewars]: https://www.codewars.com/users/KovalevEvgeny
