@@ -3,7 +3,7 @@
 - :computer: Work experience in DS: 2 years
 - :crown: [Kaggle Competitions Expert](https://www.kaggle.com/blackitten13)
 - :mortar_board: MSc in Data Science at Skoltech
-- :notebook: DS teacher
+- :notebook: DS teacher in multiple courses: [[1]](https://openedu.ru/course/hse/INTRML/), [[2]](https://cs.hse.ru/dpo/datascientist), [[3]](https://www.hse.ru/en/edu/courses/341839342), [[4]](https://www.hse.ru/en/edu/courses/420689489)
 
 ### Kaggle
 
