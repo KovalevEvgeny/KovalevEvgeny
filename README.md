@@ -54,6 +54,8 @@
 
 <a href="https://data.typeracer.com/pit/profile?user=blackitten13&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=blackitten13" border="0" alt="TypeRacer.com scorecard for user blackitten13"/></a>
 
+<div><a target="_blank" rel="nofollow" title="LiveLib" href="https://www.livelib.ru/reader/KovalevEvgeny"><img alt="LiveLib" src="https://u.livelib.ru/reader/KovalevEvgeny/widget/r5-w400-c347cd4-o45.png" style="border: 0;"></a></div>
+
 [linkedin]: https://linkedin.com/in/kovalev-e
 [kaggle]: https://www.kaggle.com/blackitten13
 [ods]: https://opendatascience.slack.com/team/UBA7N1YSG
