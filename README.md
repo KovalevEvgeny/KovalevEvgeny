@@ -1,6 +1,6 @@
 ## Kovalev Evgeny - Data Scientist
 
-- :computer: Work experience in DS: 2+ years ([MrBot](https://mrbot.im/) → [Huawei](https://career.huawei.ru/rri/) → [SberCloud](https://sbercloud.ru/))
+- :computer: Work experience in DS: 2.5 years ([MrBot](https://mrbot.im/) → [Huawei](https://career.huawei.ru/rri/) → [SberCloud](https://sbercloud.ru/))
 - :crown: [Kaggle Competitions Expert](https://www.kaggle.com/blackitten13)
 - :mortar_board: MSc in Data Science at [Skoltech](https://www.skoltech.ru/en/education/msc-programs/ds/) with honors
 - :notebook: DS teacher in multiple courses: [[1]](https://openedu.ru/course/hse/INTRML/), [[2]](https://cs.hse.ru/dpo/datascientist), [[3]](https://www.hse.ru/en/edu/courses/341839342), [[4]](https://www.hse.ru/en/edu/courses/420689489)
@@ -8,7 +8,7 @@
 
 ### Kaggle
 
-- current rank: 885 of 154,224
+- current rank: 885 of 154,214
 - medals: [:2nd_place_medal:](https://www.kaggle.com/c/ieee-fraud-detection)[:2nd_place_medal:](https://www.kaggle.com/c/deepfake-detection-challenge)[:2nd_place_medal:](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification)[:3rd_place_medal:](https://www.kaggle.com/c/aptos2019-blindness-detection)
 - solutions:
   - [IEEE-CIS Fraud Detection, 76 of 6381, top-2%](https://github.com/KovalevEvgeny/kaggle-fraud-detection)
