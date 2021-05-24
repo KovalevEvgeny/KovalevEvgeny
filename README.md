@@ -4,7 +4,7 @@
 - :crown: [Kaggle Competitions Expert](https://www.kaggle.com/blackitten13)
 - :mortar_board: MSc in Data Science at [Skoltech](https://www.skoltech.ru/en/education/msc-programs/ds/) with honors
 - :notebook: DS teacher in multiple courses: [[1]](https://openedu.ru/course/hse/INTRML/), [[2]](https://cs.hse.ru/dpo/datascientist), [[3]](https://www.hse.ru/en/edu/courses/341839342), [[4]](https://www.hse.ru/en/edu/courses/420689489)
-- :loudspeaker: Talks: [S++ podcast](https://youtu.be/8nnxjQ_6Uwo?list=PLxF_rYtB5vBDolmhcxh_oX59ilc_TaGVz)
+- :loudspeaker: Talks: [SmartDev conference](https://youtu.be/Q6OmayeymVU?t=5787), [S++ podcast](https://youtu.be/8nnxjQ_6Uwo?list=PLxF_rYtB5vBDolmhcxh_oX59ilc_TaGVz)
 
 ### Kaggle
 
