@@ -8,7 +8,7 @@
 
 ### Kaggle
 
-- current rank: 1132 of 161,618 (0.7%)
+- highest rank: 737
 - medals: [:2nd_place_medal:](https://www.kaggle.com/c/ieee-fraud-detection)[:2nd_place_medal:](https://www.kaggle.com/c/deepfake-detection-challenge)[:2nd_place_medal:](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification)[:3rd_place_medal:](https://www.kaggle.com/c/aptos2019-blindness-detection)
 - solutions:
   - [IEEE-CIS Fraud Detection, 76 of 6381, top-2%](https://github.com/KovalevEvgeny/kaggle-fraud-detection)
