@@ -3,7 +3,7 @@
 - :computer: Work experience in DS: 3 years ([MrBot](https://mrbot.im/) → [Huawei](https://career.huawei.ru/rri/) → [SberCloud](https://sbercloud.ru/))
 - :crown: [Kaggle Competitions Expert](https://www.kaggle.com/blackitten13)
 - :mortar_board: MSc in Data Science at [Skoltech](https://www.skoltech.ru/en/education/msc-programs/ds/) with honors, BSc in Mathematics at [HSE](https://math.hse.ru/en/) with honors
-- :notebook: DS teacher in multiple courses: [[Coursera "ML"]](https://www.coursera.org/learn/machine-learning-foundations/home/info), [[Coursera "Advanced ML"]](https://www.coursera.org/learn/advanced-machine-learning-methods/home/info), [[HSE "DS"]](https://cs.hse.ru/dpo/datascientist), [[4]](HSE "Data Analysis"), [[5]](HSE "ML")
+- :notebook: DS teacher in multiple courses: [[Coursera "ML"]](https://www.coursera.org/learn/machine-learning-foundations/home/info), [[Coursera "Advanced ML"]](https://www.coursera.org/learn/advanced-machine-learning-methods/home/info), [[HSE "DS"]](https://cs.hse.ru/dpo/datascientist), [[HSE "Data Analysis"]](https://www.hse.ru/en/edu/courses/341839342), [[HSE "ML"]](https://www.hse.ru/en/edu/courses/420689489)
 - :loudspeaker: Talks: [SmartDev conference](https://youtu.be/Q6OmayeymVU?t=5787), [S++ podcast](https://youtu.be/8nnxjQ_6Uwo?list=PLxF_rYtB5vBDolmhcxh_oX59ilc_TaGVz)
 
 ### Kaggle
