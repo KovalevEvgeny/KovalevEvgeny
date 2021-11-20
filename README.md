@@ -43,6 +43,8 @@
 
 ### Badges
 
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/blackitten13/competition)
+
 [<img align="left" alt="KovalevEvgeny | Codewars" src="https://www.codewars.com/users/KovalevEvgeny/badges/large" />][codewars]
 
 <br />
