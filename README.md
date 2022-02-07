@@ -49,9 +49,6 @@
 <br />
 <br />
 
-![Kovalev Evgeny's github stats](https://github-readme-stats.vercel.app/api?username=KovalevEvgeny&count_private=true&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KovalevEvgeny&layout=compact)
 
 [linkedin]: https://linkedin.com/in/kovalev-e
 [kaggle]: https://www.kaggle.com/blackitten13
