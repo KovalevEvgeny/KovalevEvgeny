@@ -42,7 +42,7 @@
 
 ### Badges
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/blackitten13/competition)
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/blackitten13/competition?theme=dark)
 
 ![stackoverflow](https://stackoverflow.com/users/flair/11347890.png)
 
