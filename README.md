@@ -44,6 +44,8 @@
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/blackitten13/competition)
 
+![stackoverflow](https://stackoverflow.com/users/flair/11347890.png)
+
 [<img align="left" alt="KovalevEvgeny | Codewars" src="https://www.codewars.com/users/KovalevEvgeny/badges/large" />][codewars]
 
 <br />
