@@ -44,7 +44,7 @@
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/blackitten13/competition)
 
-![stackoverflow](https://stackoverflow.com/users/flair/11347890.png?theme=dark)
+<a href="https://stackoverflow.com/users/11347890/evgeny-kovalev"><img src="https://stackoverflow.com/users/flair/11347890.png?theme=dark" width="208" height="58" alt="profile for Evgeny  Kovalev at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Evgeny  Kovalev at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 [<img align="left" alt="KovalevEvgeny | Codewars" src="https://www.codewars.com/users/KovalevEvgeny/badges/large" />][codewars]
 
