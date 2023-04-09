@@ -1,6 +1,6 @@
 ## Kovalev Evgeny - Data Scientist
 
-- :computer: Work experience in DS: 4 years ([MrBot](https://mrbot.im/) → [Huawei](https://career.huawei.ru/rri/) → [SberCloud](https://sbercloud.ru/) → [Semrush](https://www.semrush.com/))
+- :computer: Work experience in DS: 5 years ([MrBot](https://mrbot.im/) → [Huawei](https://career.huawei.ru/rri/) → [Cloud](https://sbercloud.ru/) → [Semrush](https://www.semrush.com/))
 - :crown: [Kaggle Competitions Expert](https://www.kaggle.com/blackitten13)
 - :mortar_board: MSc in Data Science at [Skoltech](https://www.skoltech.ru/en/education/msc-programs/ds/) with honors, BSc in Mathematics at [HSE](https://math.hse.ru/en/) with honors
 - :notebook: DS teacher in multiple courses: [Coursera "ML"](https://www.coursera.org/learn/machine-learning-foundations/home/info), [Coursera "Advanced ML"](https://www.coursera.org/learn/advanced-machine-learning-methods/home/info), [HSE "DS"](https://cs.hse.ru/dpo/datascientist), [HSE "Data Analysis"](https://www.hse.ru/en/edu/courses/341839342), [HSE "ML"](https://www.hse.ru/en/edu/courses/420689489)
