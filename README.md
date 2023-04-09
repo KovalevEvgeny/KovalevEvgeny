@@ -19,7 +19,6 @@
 
 [<img align="left" alt="kovalev-e | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" />][linkedin]
 [<img align="left" alt="blackitten13 | Kaggle" width="22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" />][kaggle]
-[<img align="left" alt="Kovalev Evgeny | ods.ai" width="22px" src="https://cdn.worldvectorlogo.com/logos/slack-1.svg" />][ods]
 
 <br />
 
@@ -42,8 +41,6 @@
 
 ### Badges
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/blackitten13/competition)
-
 <a href="https://stackoverflow.com/users/11347890/evgeny-kovalev"><img src="https://stackoverflow.com/users/flair/11347890.png?theme=dark" width="208" height="58" alt="profile for Evgeny  Kovalev at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Evgeny  Kovalev at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 [<img align="left" alt="KovalevEvgeny | Codewars" src="https://www.codewars.com/users/KovalevEvgeny/badges/large" />][codewars]
@@ -54,5 +51,4 @@
 
 [linkedin]: https://linkedin.com/in/kovalev-e
 [kaggle]: https://www.kaggle.com/blackitten13
-[ods]: https://opendatascience.slack.com/team/UBA7N1YSG
 [codewars]: https://www.codewars.com/users/KovalevEvgeny
