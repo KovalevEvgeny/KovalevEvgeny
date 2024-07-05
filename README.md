@@ -9,7 +9,7 @@
 ### Kaggle
 
 - highest rank: 737
-- medals: [:2nd_place_medal:](https://www.kaggle.com/c/ieee-fraud-detection)[:2nd_place_medal:](https://www.kaggle.com/c/deepfake-detection-challenge)[:2nd_place_medal:](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification)[:3rd_place_medal:](https://www.kaggle.com/c/aptos2019-blindness-detection)
+- medals: [:2nd_place_medal:](https://www.kaggle.com/c/ieee-fraud-detection)[:2nd_place_medal:](https://www.kaggle.com/c/deepfake-detection-challenge)[:2nd_place_medal:](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification)[:3rd_place_medal:](https://www.kaggle.com/c/aptos2019-blindness-detection)[🥉](https://www.kaggle.com/competitions/icr-identify-age-related-conditions)
 - solutions:
   - [IEEE-CIS Fraud Detection, 76 of 6381, top-2%](https://github.com/KovalevEvgeny/kaggle-fraud-detection)
   - [DeepFake Detection Challenge, 72 of 2265, top-4%](https://github.com/artkulak/deepfake-kaggle)
